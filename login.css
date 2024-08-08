@@ -1,0 +1,62 @@
+
+body{
+    background-image: url(img/cake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.content {
+   width: 400px;
+   height:260px;
+ 
+   border-radius: 5px;
+
+   background-color:aliceblue;
+   padding: 15px;
+   margin: 50px auto;
+   
+}
+
+
+.login-form{
+
+    width: 300px;
+  
+    margin: 0 auto;
+}
+
+h1{
+
+    text-align: center;
+   color: gray;
+}
+
+.group{
+   
+    margin-bottom: 15px;
+   
+}
+
+.login-field-icon{
+   
+    display: inline-block;
+    width: 85px;
+}
+
+.content2{
+    
+    text-align: center;
+    margin: 14px;
+   
+}
+
+
+
+
+.btn{
+    width: 100px;
+    padding: 7px;
+    background-color:rgb(42, 126, 165);
+    color:rgba(0, 0, 0, 0.897);
+    border: 1px solid ;
+}

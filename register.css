@@ -1,0 +1,59 @@
+body {
+    background-image: url(img/cake_store.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.register {
+    width: 500px;
+   height: 300px;
+ 
+   border-radius: 5px;
+   
+   background-color:aliceblue;
+   padding: 15px;
+   margin: 50px auto;
+   
+}
+
+h1 {
+    text-align: center;
+    color:brown;
+}
+
+.register-field-icon {
+  
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+
+
+
+
+.group {
+   
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+.btn {
+    width: 250px;
+    padding: 7px;
+    background-color:rgb(42, 126, 165);
+    color:rgba(0, 0, 0, 0.897);
+    border: 1px solid ;
+    margin-top: 10px;
+}
+
+
+
+.link {
+    
+    text-align: center;
+   margin: 10px;
+}
+
