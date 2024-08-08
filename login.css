@@ -1,12 +1,13 @@
 
 body{
-    background-image: url(img/cake.jpg);
+    background-image: url( img/4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+   
 }
 .content {
-   width: 400px;
+   /* width: 400px;
    height:260px;
  
    border-radius: 5px;
@@ -14,6 +15,14 @@ body{
    background-color:aliceblue;
    padding: 15px;
    margin: 50px auto;
+    */
+ 
+        width: 600px;
+        margin: 100px auto;
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
    
 }
 
@@ -28,7 +37,7 @@ body{
 h1{
 
     text-align: center;
-   color: gray;
+   color :brown;
 }
 
 .group{
@@ -56,7 +65,7 @@ h1{
 .btn{
     width: 100px;
     padding: 7px;
-    background-color:rgb(42, 126, 165);
+    background-color:rgb(44, 61, 134);
     color:rgba(0, 0, 0, 0.897);
     border: 1px solid ;
 }
